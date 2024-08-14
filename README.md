@@ -1,5 +1,6 @@
 # Kasada-Solver
 Uses the playwright browser in python to collect the CT &amp; ST values for bypassing https://kasada.io
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/9b018a62-147a-4379-8b5b-da0794eb5435">
 
 # What Is This?
 For some websites liek twitch they don't have a visible captcha, they detect bots using kasada
